@@ -1,0 +1,81 @@
+Tôi sẽ cung cấp cho bạn nội dung của một tài liệu dài, đây là tài liệu chuyên dùng để giải nghĩa các từ được dùng trong tên địa danh. 
+Nhiệm vụ của bạn: Chia nhỏ tài liệu này. Cụ thể, tôi muốn nhờ bạn chia nhỏ document này ra theo từ, kèm giải thích của từ, và các thông tin liên quan đến tên địa danh mà sử dụng từ đó. Lưu ý rằng không phải từ nào cũng có đầy đủ giải thích và các thông tin liên quan, trong trường hợp này bạn không cần phải đi tìm những thông tin đó. Bạn chỉ có nhiệm vụ chia nhỏ, không có nhiệm vụ thay đổi hay phát sinh thêm. 
+Các đoạn được chia nhỏ phải được viết cách nhau bởi một dòng trống. Câu trả lời của bạn chỉ được bao gồm nội dung trong tài liệu, không được có lời dẫn dắt và lời kết của bạn. 
+
+Dưới đây là một vài ví dụ cho bạn: 
+
+- Ví dụ 1: 
++ Tài liệu: Bùng binh là chỗ phình rộng giữa sông rạch, đôi khi có cù lao ở giữa, 
+ghe thuyền có thể quay đầu [3]. Đầu thế kỷ 20, từ bùng binh mới được dùng 
+để chỉ nơi giao lộ trong thành phố, như bùng binh Sài Gòn, bùng binh Ngã 
+Bảy. Bùng Binh là rạch ở quận 10 và quận 3, thành phố Hồ Chí Minh, từ Bộ 
+tư lệnh thành phố đến rạch Nhiêu Lộc, dài độ 500m. Đầu thế kỷ 21, rạch đã 
+bị lấp, làm thành đường phố, mang tên đường Rạch Bùng Binh. Bùng Binh 
+cũng là rạch chảy xuyên hương lộ 10, đến phường Phú Thứ, quận Cái Răng, 
+thành phố Cần Thơ, dài 5km.  
+Búng là vùng đất thuộc tỉnh Bình Dương. Dòng sông Sài Gòn chảy 
+đến đây tạo thành một chỗ xoáy sâu rất nguy hiểm đối với ghe thuyền. Chỗ 
+đó gọi là búng, sau trở thành tên vùng đất. Búng là “chỗ nước sâu làm ra 
+một vùng” [3]. 
+Bưng gốc Khmer bâng, nghĩa là “vùng đất sâu và rộng ở giữa đồng”. 
+Bưng Môn là địa điểm ở thành phố Hồ Chí Minh; Môn là “cây môn nước”. 
+Đường Thét là chợ ở huyện Cao Lãnh, tỉnh Đồng Tháp. Đường thét 
+là “đường rất thẳng”, người xưa thường nói thẳng thét “rất thẳng”. 
+Đường trâu là “đường trâu thường đi tạo thành rạch”. Đường Trâu là 
+rạch ở huyện Long Hồ, tỉnh Vĩnh Long.  
+Đường Xuồng là kênh ở huyện Tam Bình, tỉnh Vĩnh Long. Đường 
+xuồng là “dòng nước mà các chiếc xuồng thường đi lại”.  
+
++ Câu trả lời: 
+Bùng binh là chỗ phình rộng giữa sông rạch, đôi khi có cù lao ở giữa, 
+ghe thuyền có thể quay đầu [3]. Đầu thế kỷ 20, từ bùng binh mới được dùng 
+để chỉ nơi giao lộ trong thành phố, như bùng binh Sài Gòn, bùng binh Ngã 
+Bảy. Bùng Binh là rạch ở quận 10 và quận 3, thành phố Hồ Chí Minh, từ Bộ 
+tư lệnh thành phố đến rạch Nhiêu Lộc, dài độ 500m. Đầu thế kỷ 21, rạch đã 
+bị lấp, làm thành đường phố, mang tên đường Rạch Bùng Binh. Bùng Binh 
+cũng là rạch chảy xuyên hương lộ 10, đến phường Phú Thứ, quận Cái Răng, 
+thành phố Cần Thơ, dài 5km.  
+
+Búng là vùng đất thuộc tỉnh Bình Dương. Dòng sông Sài Gòn chảy 
+đến đây tạo thành một chỗ xoáy sâu rất nguy hiểm đối với ghe thuyền. Chỗ 
+đó gọi là búng, sau trở thành tên vùng đất. Búng là “chỗ nước sâu làm ra 
+một vùng” [3]. 
+
+Bưng gốc Khmer bâng, nghĩa là “vùng đất sâu và rộng ở giữa đồng”. 
+Bưng Môn là địa điểm ở thành phố Hồ Chí Minh; Môn là “cây môn nước”. 
+Đường Thét là chợ ở huyện Cao Lãnh, tỉnh Đồng Tháp. Đường thét 
+là “đường rất thẳng”, người xưa thường nói thẳng thét “rất thẳng”. 
+Đường trâu là “đường trâu thường đi tạo thành rạch”. Đường Trâu là 
+rạch ở huyện Long Hồ, tỉnh Vĩnh Long.  
+
+Đường Thét là chợ ở huyện Cao Lãnh, tỉnh Đồng Tháp. Đường thét 
+là “đường rất thẳng”, người xưa thường nói thẳng thét “rất thẳng”. 
+Đường trâu là “đường trâu thường đi tạo thành rạch”. Đường Trâu là 
+rạch ở huyện Long Hồ, tỉnh Vĩnh Long.  
+
+Đường Xuồng là kênh ở huyện Tam Bình, tỉnh Vĩnh Long. Đường 
+xuồng là “dòng nước mà các chiếc xuồng thường đi lại”.  
+
+- Ví dụ 2: 
++ Tài liệu: 
+2.1.Về địa thế, phương ngữ Nam Bộ cũng có những từ ngữ của ngôn 
+ngữ toàn dân, như núi (núi Nhỏ ở Vũng Tàu), gò (Gò Công ở Tiền Giang), 
+mô (Mô Súng ở thành phố Hồ Chí Minh), bàu (Bàu Trai ở Long An), đầm 
+(Đầm Cùng ở Cà Mau), hồ (hồ Dầu Tiếng ở Tây Ninh)
+
++ Câu trả lời: 
+2.1.Về địa thế, phương ngữ Nam Bộ cũng có những từ ngữ của ngôn 
+ngữ toàn dân, như núi (núi Nhỏ ở Vũng Tàu)
+
+gò (Gò Công ở Tiền Giang)
+
+mô (Mô Súng ở thành phố Hồ Chí Minh)
+
+bàu (Bàu Trai ở Long An)
+
+đầm (Đầm Cùng ở Cà Mau)
+
+hồ (hồ Dầu Tiếng ở Tây Ninh)
+
+----------------------------------------------
+Và dưới đây là tài liệu mà bạn phải chia đoạn: 
